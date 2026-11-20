@@ -1,0 +1,10 @@
+.box div> {
+    height: 300px;
+
+}
+
+img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
